@@ -3,8 +3,6 @@
 - Focado em Python, HTML e CSS 
 Contato: lucca.narderocha@gmail.com
 
-## lucca.narderocha@gmail.com
-
 ## 
 Linguagens que estudo
 <div style="display: inline_block"><br> 
